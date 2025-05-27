@@ -87,3 +87,14 @@ This analysis is supported by Tableau dashboards to visualize:
 
 These visuals allow stakeholders to interactively explore problem areas and identify opportunities for improvement.
 
+**Delivery Performance Dashboard**:
+
+![image](https://github.com/user-attachments/assets/ee99ccce-26ae-4a14-8383-8d175fe37bfb)
+
+
+
+**Product and Inventory Dashboard**:
+
+![image](https://github.com/user-attachments/assets/5d692960-9666-42f6-90ec-2f045cc55b52)
+
+
