@@ -70,3 +70,20 @@ This analysis aims to address critical business questions:
 
         Absence of depletion strategies like promotions or purchase limits
 
+📈 Visualizations
+
+This analysis is supported by Tableau dashboards to visualize:
+
+    🔹 Top-selling products by category
+
+    🔹 Monthly demand trends year over year
+
+    🔹 Inventory movement vs min/max thresholds
+
+    🔹 Damaged/Received stock ratios
+
+    🔹 Deliveries Over Month
+    
+
+These visuals allow stakeholders to interactively explore problem areas and identify opportunities for improvement.
+
